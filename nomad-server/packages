@@ -1,0 +1,20 @@
+#All of this project's dependencies:
+
+#tkinter: 
+pip3 install tk
+#ImageTk: 
+sudo apt-get install python3-pil python3-pil.imagetk
+#Pillow
+pip3 install Pillow
+#requests
+pip3 install requests
+#from io import BytesIO
+pip3 install bytesbufio
+#Flask:
+pip3 install Flask
+#jsonify:
+pip3 install jsonify
+#request
+pip3 install requests
+#flask_cors CORS
+pip3 install -U flask-cors
