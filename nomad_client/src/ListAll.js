@@ -60,7 +60,7 @@ import { PhantomWalletAdapter } from '@solana/wallet-adapter-phantom';
         var nftMetadata = selectedImg
         console.log(nftMetadata);
 
-        const HOST = 'http://nomad_app.local' //'http://192.168.1.135:1243/nomad_app'
+        const HOST = 'http://nomad-app.local' //'http://192.168.1.135:1243/nomad_app'
         const PORT = '1243'
         const ENDPOINT = `${HOST}:${PORT}/api/nomad_app`
 
